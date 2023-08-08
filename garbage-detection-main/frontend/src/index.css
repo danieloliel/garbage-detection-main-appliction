@@ -1,0 +1,17 @@
+.form_error_message {
+    color: red;
+    font-size: 0.85em;
+    text-transform: capitalize;
+}
+
+.form_success_message{
+    color: forestgreen;
+    font-size: 0.85em;
+    text-transform: capitalize;
+}
+
+.error_message {
+    color: red;
+    font-size: 0.75em;
+    margin-top: 2px;
+}
